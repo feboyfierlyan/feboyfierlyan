@@ -50,7 +50,4 @@ me.say_hi()
 
 ---
 
- 
-<!--
-**feboyfierlyan/feboyfierlyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
