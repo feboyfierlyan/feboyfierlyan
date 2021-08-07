@@ -14,7 +14,7 @@
 # -*- coding: utf-8 -*-
 
 
-class SoftwareEngineer:
+class CybersecurityEngineer:
 
     def __init__(self):
         self.name = "Feboy Fierlyan"
