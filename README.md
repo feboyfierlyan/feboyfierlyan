@@ -8,6 +8,7 @@
 - 🎓 &nbsp; Studying Cybersecurity.
 
 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
@@ -19,6 +20,7 @@ class SoftwareEngineer:
         self.name = "Feboy Fierlyan"
         self.role = "Cybersecurity Engineer"
         self.language_spoken = ["in_ID", "en_US"]
+        self.code_languages = ["Python", "C++", "Java", "HTML", "CSS", "PHP", "Shell"]
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
