@@ -20,7 +20,7 @@ class CybersecurityEngineer:
         self.name = "feboyfierlyan"
         self.role = "Cybersecurity Engineer"
         self.language_spoken = ["in_ID", "en_US"]
-        self.code_languages = ["Python", "C++", "Java", "HTML", "CSS", "PHP", "Shell"]
+        self.code_languages = ["Python", "C++", "JavaScript", "HTML", "CSS", "PHP", "Shell"]
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
