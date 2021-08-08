@@ -17,7 +17,7 @@
 class CybersecurityEngineer:
 
     def __init__(self):
-        self.name = "Feboy Fierlyan"
+        self.name = "feboyfierlyan"
         self.role = "Cybersecurity Engineer"
         self.language_spoken = ["in_ID", "en_US"]
         self.code_languages = ["Python", "C++", "Java", "HTML", "CSS", "PHP", "Shell"]
