@@ -19,7 +19,7 @@ class CybersecurityEngineer:
     def __init__(self):
         self.name = "feboyfierlyan"
         self.role = "Cybersecurity Engineer"
-        self.language_spoken = ["in_ID", "en_US"]
+        self.language_spoken = ["id_ID", "en_US"]
         self.code_languages = ["Python", "C++", "JavaScript", "HTML", "CSS", "PHP", "Shell"]
 
     def say_hi(self):
