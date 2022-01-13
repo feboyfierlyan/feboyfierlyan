@@ -24,7 +24,7 @@ Never forget: Python > * !
 - ![](https://img.shields.io/badge/DEV-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
 - ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=FF0000)
 - ![](https://img.shields.io/badge/OS-Android-informational?style=flat&logo=Android&logoColor=white&color=FF0000)
-- ![](https://img.shields.io/badge/OS-Parrot-informational?style=flat&logo=linux&logoColor=white&color=FF0000)
+- ![](https://img.shields.io/badge/OS-Kali-informational?style=flat&logo=linux&logoColor=white&color=FF0000)
 
 ## &#x1f4c8; GitHub Stats
 
