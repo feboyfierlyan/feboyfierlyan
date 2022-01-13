@@ -1,52 +1,46 @@
-### Hi there 👋
 
-## I'm feboyfierlyan
+<img align='right' src="https://github.com/feboyfierlyan/feboyfierlyan/blob/main/img/Webp.net-resizeimage.gif">
 
-### 💻 &nbsp;About Me 
+# Hellooooo there! <img src="https://github.com/feboyfierlyan/feboyfierlyan/blob/main/img/wave.gif" width="30px">
+I am a young passionate about cybersecurity and IT in general. I mainly program in python. 
+</br>
+Never forget: Python > * !
+</br>
+</br>
+</br>
+</br>
 
-- 🤔 &nbsp; Exploring new technologies and developing solutions to our worlds tech problems.
-- 🎓 &nbsp; Studying Cybersecurity.
+# :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+- 🖥 Python developer
+- 💼 16 years
+- 🇮🇩  Indonesia
+- 🎮 Gamer
 
+## 📫 𝙿𝚛𝚘𝚏𝚒𝚕𝚎𝚜
+- 👨‍💻 CTFLEARN : [Click](https://ctflearn.com/user/feboyfierlyan)
+- 💬 Discord : boii#1470
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
+## 🏆 Skills and Tools
+- ![](https://img.shields.io/badge/DEV-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
+- ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=FF0000)
+- ![](https://img.shields.io/badge/OS-Android-informational?style=flat&logo=Android&logoColor=white&color=FF0000)
+- ![](https://img.shields.io/badge/OS-Parrot-informational?style=flat&logo=linux&logoColor=white&color=FF0000)
 
+## &#x1f4c8; GitHub Stats
 
-class Student:
-
-    def __init__(self):
-        self.name = "feboyfierlyan"
-        self.role = "Student"
-        self.language_spoken = ["id_ID", "en_US"]
-        self.code_languages = ["Python", "C++", "JavaScript", "HTML", "CSS", "PHP", "Shell"]
-
-    def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting.")
-
-
-me = Student()
-me.say_hi()
-```
-
-## My Stats
-<p>
-<a href="https://github.com/feboyfierlyan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=feboyfierlyan&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=feboyfierlyan&theme=radical&layout=compact&exclude_lang=java+r" />
+<a href="https://github.com/xiaotox-devfr?tab=followers">
+  <img src="https://img.shields.io/github/followers/feboyfierlyan">
 </a>
-</p>
 
+<a href="https://github.com/feboyfierlyan">
+   <img src="https://komarev.com/ghpvc/?username=feboyfierlyan">
+</a>
+</br>
 
-##  🤝🏻 &nbsp;Connect with Me
+<a href="https://github.com/feboyfierlyan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feboyfierlyan&title_color=ff3855&text_color=30d5c8&icon_color=ffff00&bg_color=291b29" />
+</a>
 
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
-<p align="center">
-<a href="mailto:egid5829c0016ae262o@protonmail.com"><img src="https://img.shields.io/badge/-egid5829c0016ae262o@protonmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-
----
-
-
+<a href="https://github.com/feboyfierlyan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=feboyfierlyan&show_icons=true&line_height=27&count_private=true&title_color=ff3855&text_color=30d5c8&icon_color=ffff00&bg_color=291b29" alt="loTus04's GitHub Stats" />
+</a> 
