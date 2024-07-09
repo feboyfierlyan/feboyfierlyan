@@ -12,7 +12,7 @@ Never forget: Python > * !
 
 # :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 Python developer
-- 💼 16 years
+- 💼 18 years
 - 🇮🇩  Indonesia
 - 🎮 Gamer
 
