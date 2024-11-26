@@ -6,7 +6,7 @@
 
 <p align="center">
 <a href= "https://feboyfierlyan.framer.website"><img src="https://img.icons8.com/windows/32/000000/web.png"/></a>
-<a href= "https://instagram/fierlyanfeboy"><img src="https://img.icons8.com/material-outlined/32/000000/instagram.png"/></a>
+<a href= "https://instagram.com/fierlyanfeboy"><img src="https://img.icons8.com/material-outlined/32/000000/instagram.png"/></a>
 </p>
 
 <p align="center"><samp>
