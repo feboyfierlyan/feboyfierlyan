@@ -29,10 +29,28 @@ Custom KiCad PCB, RISC-V firmware, and an interactive 3D simulator. The same C c
 
 <br>
 
+<sub>02 / MOBILE + FOOD WASTE</sub>
+
+<a href="https://github.com/feboyfierlyan/pas-app">
+  <img src="https://raw.githubusercontent.com/feboyfierlyan/pas-app/main/docs/media/pas-cover.svg" width="100%" alt="PAS — Produksi yang Pas. A production-planning companion for small food businesses: plan, record, and learn.">
+</a>
+
+**[PAS](https://github.com/feboyfierlyan/pas-app) — a clearer plan for tomorrow's kitchen.**
+
+A mobile decision assistant for small food businesses, designed to reduce overproduction and food waste. PAS turns sales history and usable stock into production recommendations—with clear reasons, what-if scenarios, and daily sales and leftover tracking.
+
+`React Native` `Expo` `Python / FastAPI` `Supabase`
+
+<sub>HoloDev finalist · HOLOGY 9.0 · Built with team Scroll Fesnuk, PENS</sub>
+
+[Explore the app →](https://github.com/feboyfierlyan/pas-app) · [How decisions are made](https://github.com/feboyfierlyan/pas-app#cara-pas-menentukan-angka) · [Impact simulation & findings](https://github.com/feboyfierlyan/pas-app/tree/main/artifacts/pas-impact-7-days)
+
+<br>
+
 <table>
 <tr>
 <td width="50%" valign="top">
-<sub>02 / ON-DEVICE AI</sub>
+<sub>03 / ON-DEVICE AI</sub>
 <h3>JariLingo</h3>
 <a href="https://feboyfierlyan.com/projects/jarilingo"><img src="assets/jarilingo.png" width="100%" alt="JariLingo iOS screens: a BISINDO gesture lesson, corrective feedback, and lesson completion."></a>
 <p><strong>Learn a language with your hands.</strong></p>
@@ -41,7 +59,7 @@ Custom KiCad PCB, RISC-V firmware, and an interactive 3D simulator. The same C c
 <p><a href="https://feboyfierlyan.com/projects/jarilingo">Read the case study →</a><br><a href="projects/jarilingo.md">Engineering notes</a></p>
 </td>
 <td width="50%" valign="top">
-<sub>03 / NATIVE macOS</sub>
+<sub>04 / NATIVE macOS</sub>
 <h3>ChronoDown</h3>
 <a href="https://feboyfierlyan.com/projects/chronodown"><img src="assets/chronodown.png" width="100%" alt="ChronoDown running a live event rundown on macOS, with session status, a Time Bank, and a large countdown."></a>
 <p><strong>Keep the whole event on time.</strong></p>
@@ -52,7 +70,7 @@ Custom KiCad PCB, RISC-V firmware, and an interactive 3D simulator. The same C c
 </tr>
 </table>
 
-<sub>04 / DEVELOPER TOOLS</sub>
+<sub>05 / DEVELOPER TOOLS</sub>
 
 ### [gimtex](https://github.com/feboyfierlyan/gimtex)
 
